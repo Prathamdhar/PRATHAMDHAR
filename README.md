@@ -1,128 +1,35 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratham%20Dhar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20UI%20Enthusiast&descAlignY=58&descSize=20" alt="Pratham Dhardev banner" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=70A5FD&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Pratham+Dhar;A+passionate+frontend+developer+from+India;I+turn+ideas+into+clean%2C+responsive+web+apps;Open+to+internships+%26+entry-level+roles+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=prathamdhardev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprathamdhardev&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=8957e5" alt="Total public repos" />
-<img src="https://img.shields.io/github/followers/prathamdhardev?label=Followers&style=for-the-badge&logo=github&color=1f6feb" alt="Followers" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=F9D71C&center=true&vCenter=true&width=600&lines=I'm+Pratham+Dhar;Welcome+to+the+Batcave!" alt="Animated Floating Title" />
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-## 👨‍💻 About Me
-
-"I'm a disciplined and motivated professional who loves taking on
-new challenges and delivering results that make a difference. With a
-sharp eye for detail and a drive to always learn and grow, I
-consistently go the extra mile to create value and exceed
-expectations. My proactive and adaptable nature helps me thrive in
-any team, and I genuinely enjoy contributing to shared success."
-<br/>
-
-<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:pratham2002dhar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- TODO: replace YOUR-LINKEDIN-ID with the part after linkedin.com/in/ (no spaces) -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/prathamdhardev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-## 🧰 Tech Stack
+## 🦇 About Me & Connect
+> "I'm a disciplined and motivated professional who loves taking on new challenges and delivering results that make a difference.[cite: 1] With a sharp eye for detail and a drive to always learn and grow, I consistently go the extra mile to create value and exceed expectations.[cite: 1] My proactive and adaptable nature helps me thrive in any team, and I genuinely enjoy contributing to shared success."[cite: 1]
 
 <div align="center">
-  <img src="./assets/tech-stack.svg" alt="Tech stack: HTML, CSS, JavaScript, TypeScript, C, C++, Java, Python, PHP, React, Svelte, AWS, GCP, Linux, Git, GitHub, VS Code, MongoDB, MySQL, PostgreSQL, Oracle, Figma, Illustrator, Photoshop, Blender" width="100%" />
+  <a href="mailto:Pratham2002dhar@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F9D71C" alt="Email" /></a>[cite: 1]
+  <a href="https://linkedin.com/in/Prathamdharl"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F9D71C" alt="LinkedIn" /></a>[cite: 1]
 </div>
 
-<br/>
+## 🟡 Education & Expertise
+* **B.A. in Bangla Honours** | Prafulla Chandra College, University of Calcutta (2021-2026)[cite: 1]
+* **Diploma in Computer Accounting Expert (DCAE)** | Jadavpur Youth Computer Training Centre (2025-2026)[cite: 1]
+* **Management & Leadership:** Team Management, Leadership, Negotiation.[cite: 1]
+* **Creative & Strategy:** Creativity, Typography, Critical Thinking.[cite: 1]
+* **Languages:** Bangla (Good), Hindi (Moderate), English (Moderate).[cite: 1]
 
-<!-- ═══════════════════════════ FEATURED PROJECTS ═══════════════════════════ -->
-## 🚀 Featured Projects
-
-<!--
-  Before publishing: create repos with these names (or edit the links below),
-  push your code, and enable GitHub Pages if you want live demo links.
--->
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧮 AI Calculator</h3>
-      <p>A calculator with two modes: a classic standard mode and an AI tab where you type math in plain English.</p>
-      <p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></p>
-      <p><a href="https://github.com/prathamdhardev/ai-calculator">📂 Code</a> &nbsp;•&nbsp; <a href="https://prathamdhardev.github.io/ai-calculator">🔗 Live Demo</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 JARVIS Portfolio</h3>
-      <p>A sci-fi inspired personal portfolio with canvas animations and custom CSS, built with no animation libraries.</p>
-      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Canvas-8957e5?style=flat-square" alt="Canvas" /></p>
-      <p><a href="https://github.com/prathamdhardev/jarvis-portfolio">📂 Code</a> &nbsp;•&nbsp; <a href="https://prathamdhardev.github.io/jarvis-portfolio">🔗 Live Demo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏫 College Website</h3>
-      <p>A fully responsive seven-page college website in a single file, with client-side routing and vanilla JavaScript.</p>
-      <p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></p>
-      <p><a href="https://github.com/prathamdhardev/college-website">📂 Code</a> &nbsp;•&nbsp; <a href="https://prathamdhardev.github.io/college-website">🔗 Live Demo</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📧 Gmail UI Clone</h3>
-      <p>A pixel-careful HTML and CSS replica of the Gmail interface, built to practise layout and detail work.</p>
-      <p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></p>
-      <p><a href="https://github.com/prathamdhardev/gmail-ui-clone">📂 Code</a> &nbsp;•&nbsp; <a href="https://prathamdhardev.github.io/gmail-ui-clone">🔗 Live Demo</a></p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════ GITHUB ANALYTICS ═══════════════════════════ -->
-## 📊 GitHub Analytics
-
+## 🦇 Software & Tech Skills
 <div align="center">
-
-<!-- Stats card (stars, commits, PRs, issues) + Top languages -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=prathamdhardev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamdhardev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<!-- Contribution streak -->
-<img src="https://streak-stats.demolab.com?user=prathamdhardev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
-
+  <img src="https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=F9D71C" alt="Excel" />[cite: 1]
+  <img src="https://img.shields.io/badge/Microsoft_Word-000000?style=for-the-badge&logo=microsoftword&logoColor=F9D71C" alt="Word" />[cite: 1]
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-000000?style=for-the-badge&logo=microsoftpowerpoint&logoColor=F9D71C" alt="PowerPoint" />[cite: 1]
+  <img src="https://img.shields.io/badge/Microsoft_Access-000000?style=for-the-badge&logo=microsoftaccess&logoColor=F9D71C" alt="Access" />[cite: 1]
+  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=F9D71C" alt="Canva" />[cite: 1]
+  <img src="https://img.shields.io/badge/Git_Version_Control-000000?style=for-the-badge&logo=git&logoColor=F9D71C" alt="Git" />[cite: 1]
+  <img src="https://img.shields.io/badge/Tally_&_GST-000000?style=for-the-badge&logo=databricks&logoColor=F9D71C" alt="Tally" />[cite: 1]
 </div>
 
-### 📈 Contribution and Commit Activity
-
+## 🐍 GitHub Contributions (Snake Animation)
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamdhardev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution activity graph" width="100%" />
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathamdhardev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
-<div align="center">
-
-⭐ *If you like my work, drop a star on my repos. Thanks for stopping by!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer wave" />
-
+  <!-- Replace YOUR_USERNAME with your actual GitHub username below -->
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
