@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratham%20Dhardev&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20UI%20Enthusiast&descAlignY=58&descSize=20" alt="Pratham Dhardev banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratham%20Dhar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20UI%20Enthusiast&descAlignY=58&descSize=20" alt="Pratham Dhardev banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=70A5FD&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Pratham+Dhardev;A+passionate+frontend+developer+from+India;I+turn+ideas+into+clean%2C+responsive+web+apps;Open+to+internships+%26+entry-level+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=70A5FD&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Pratham+Dhar;A+passionate+frontend+developer+from+India;I+turn+ideas+into+clean%2C+responsive+web+apps;Open+to+internships+%26+entry-level+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,12 +20,12 @@
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## 👨‍💻 About Me
 
-- 🎨 Frontend developer who loves building clean, responsive and good-looking interfaces
-- 🛠️ Most comfortable with **HTML, CSS and JavaScript**, and growing in **React** and **TypeScript**
-- 🧩 I enjoy the design side too: Figma, Illustrator and Photoshop
-- 🚀 **Open to internships and entry-level frontend roles**
-- 📫 Reach me at **pratham2002dhar@gmail.com**
-
+"I'm a disciplined and motivated professional who loves taking on
+new challenges and delivering results that make a difference. With a
+sharp eye for detail and a drive to always learn and grow, I
+consistently go the extra mile to create value and exceed
+expectations. My proactive and adaptable nature helps me thrive in
+any team, and I genuinely enjoy contributing to shared success."
 <br/>
 
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
