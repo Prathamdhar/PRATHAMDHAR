@@ -24,19 +24,6 @@ I'm a **disciplined and motivated** professional with a sharp eye for detail and
 I like taking on new challenges, delivering results that make a difference, and going the extra mile to create value.
 I'm proactive, adaptable, and I enjoy contributing to **shared success** in any team.
 
-```js
-const pratham = {
-  name: "Pratham Dhar",
-  location: "Kolkata, India",
-  education: "B.A. (Bangla) Honours, University of Calcutta",
-  diploma: "Computer Accounting Expert (DCAE)",
-  codes: ["HTML", "CSS", "JavaScript"],
-  tools: ["Tally", "GST", "Excel", "Word", "PowerPoint", "Access", "Canva"],
-  languages: ["Bangla", "Hindi", "English"],
-  openTo: ["Internships", "First job", "Collaboration"],
-};
-```
-
 <!-- ═══════════════ SKILLS ═══════════════ -->
 <h2 align="center">⚡ &nbsp;TECH STACK&nbsp; ⚡</h2>
 
@@ -70,6 +57,7 @@ const pratham = {
 <img src="https://img.shields.io/badge/Creativity-FFD700?style=for-the-badge&labelColor=000000" alt="Creativity" />
 <img src="https://img.shields.io/badge/Typography-FFD700?style=for-the-badge&labelColor=000000" alt="Typography" />
 <img src="https://img.shields.io/badge/Consistency-FFD700?style=for-the-badge&labelColor=000000" alt="Consistency" />
+
 
 </div>
 
