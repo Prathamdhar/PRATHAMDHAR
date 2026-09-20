@@ -1,10 +1,10 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:1a1a1a,100:FFD700&height=250&section=header&text=PRATHAM%20DHAR&fontSize=64&fontColor=FFD700&fontAlignY=38&animation=fadeIn&desc=Computer%20Accounting%20%7C%20Web%20Development%20%7C%20Design&descSize=18&descColor=FFFFFF&descAlignY=60" width="100%" alt="Pratham Dhar header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:1a1a1a,100:FFD700&height=260&section=header&text=PRATHAM%20DHAR&fontSize=64&fontColor=FFD700&fontAlignY=38&animation=fadeIn&desc=Computing%20%7C%20Accounting%20%7C%20%Management%20%7C%20Design&descSize=18&descColor=FFFFFF&descAlignY=60" width="100%" alt="Pratham Dhar header" />
 
-<a href="https://github.com/prathamdhardev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%A6%87+Disciplined.+Detail-oriented.+Driven.;Building+clean+websites+with+HTML+%7C+CSS+%7C+JS;Computer+Accounting+%E2%80%A2+Tally+%E2%80%A2+GST+%E2%80%A2+Excel;Open+to+internships+and+first-job+opportunities" alt="Typing animation" />
+<a href="https://github.com/prathamdhar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%A6%87+Disciplined.+Detail-oriented.+Driven.;Managing+excel+Datasheet;Computing+%E2%80%A2+Tally+%E2%80%A2+GST+%E2%80%A2+Excel;Open+to+internships+and+first-job+opportunities" alt="Typing animation" />
 </a>
 
 <br/>
